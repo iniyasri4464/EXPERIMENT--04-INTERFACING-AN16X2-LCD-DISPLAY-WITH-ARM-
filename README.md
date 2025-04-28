@@ -265,7 +265,8 @@ void Error_Handler(void)
 
 
 ## Output screen shots of proteus  :
-![Screenshot 2025-04-21 144724](https://github.com/user-attachments/assets/ecec7d0d-66c3-4bf1-8dcc-cc0c762eeb63)
+![image](https://github.com/user-attachments/assets/2caaaf20-308f-4a4a-8c72-50c793b3ff78)
+
 
 
  
