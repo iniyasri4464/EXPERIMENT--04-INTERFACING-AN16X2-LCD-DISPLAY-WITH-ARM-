@@ -195,7 +195,7 @@ int main(void)
   Lcd_cursor(&lcd, 0, 4);
   Lcd_string(&lcd, "DEPT-AI&DS");
   Lcd_cursor(&lcd, 1, 2);
-  Lcd_string(&lcd, " SAI DARSHINI ");
+  Lcd_string(&lcd, " INIYASRI S ");
 
   while (1)
   {
@@ -265,7 +265,7 @@ void Error_Handler(void)
 
 
 ## Output screen shots of proteus  :
-![image](https://github.com/user-attachments/assets/2caaaf20-308f-4a4a-8c72-50c793b3ff78)
+![Screenshot 2025-04-21 144724](https://github.com/user-attachments/assets/a8575652-1bbd-417f-99c2-7997d5f66efd)
 
 
 
@@ -273,7 +273,6 @@ void Error_Handler(void)
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
-![image](https://github.com/user-attachments/assets/5541f43a-d42f-4616-aa6b-4a257ada30a3)
 
 
 ## Result :
